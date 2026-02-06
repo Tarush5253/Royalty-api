@@ -10,11 +10,11 @@ earnings, and request withdrawals.
 
 ## 🚀 Live API URL
 
-    [https://royalty-api-ay0c.onrender.com](https://royalty-api-ay0c.onrender.com)
+    https://royalty-api-ay0c.onrender.com
 
 Example:
 
-    [https://royalty-api-ay0c.onrender.com/authors](https://royalty-api-ay0c.onrender.com/authors)
+    https://royalty-api-ay0c.onrender.com/authors
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Example:
 -   Nodemon
     -    Auto-restart server during development
 
-
+```
 ```
     npm install express cors nodemon
 
