@@ -10,25 +10,28 @@ earnings, and request withdrawals.
 
 ## 🚀 Live API URL
 
-    https://your-app-name.onrender.com
+    [https://royalty-api-ay0c.onrender.com](https://royalty-api-ay0c.onrender.com)
 
 Example:
 
-    https://your-app-name.onrender.com/authors
+    [https://royalty-api-ay0c.onrender.com/authors](https://royalty-api-ay0c.onrender.com/authors)
 
 ------------------------------------------------------------------------
 
 ## 🛠 Tech Stack & Packages
 
--   Node.js                 # For JavaScript Runtime Enviroment
--   Express.js              # REST API framework
--   In-memory data storage  # arrays
--   CORS                    # to allow requests from any origin
--   Nodemon                 # Auto-restart server during development
+-   Node.js
+    -    For JavaScript Runtime Enviroment
+-   Express.js
+    -    REST API framework
+-   In-memory data storage
+    -    arrays
+-   CORS
+    -    to allow requests from any origin
+-   Nodemon
+    -    Auto-restart server during development
 
 
-```{=html}
-<!-- -->
 ```
     npm install express cors nodemon
 
